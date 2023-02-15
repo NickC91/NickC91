@@ -1,9 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**NickC91/NickC91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Mi chiamo Nicola, ho 30 anni e attualmente sono alla ricerca di un lavoro nella programmazione.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Skills
+👨‍💻 HTML, CSS, JavaScript
+⚙️ React
+👁️ Node.js
+💽 MongoDB
