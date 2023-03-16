@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 # Nice to meet you, i'm Nicola
-Mi chiamo Nicola, ho 30 anni e vivo in provincia di Trento.
 Attualmente non sto lavorando come sviluppatore, ma già da tempo ho intrapreso questo percorso e sono motivato nel volev stravolgere la mia vita e dare una svolta a pieno a questa sfida.
 Sto imparando tramite la piattaforma di <a href="https://www.start2impact.it/">Start2impact</a> tutto quello che c'è da sapere per essere un ottimo sviluppatore web, nello specifico lato frontend.
 L'ambizione finale è quella di diventare un Mern Stack Developer
