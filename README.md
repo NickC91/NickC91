@@ -6,7 +6,7 @@
 Attualmente non sto lavorando come sviluppatore, ma già da tempo ho intrapreso questo percorso e sono motivato nel voler stravolgere la mia vita e dare una svolta a pieno a questa sfida. Sto imparando tramite la piattaforma di Start2impact e Udemy tutto quello che c'è da sapere per essere un ottimo sviluppatore web, nello specifico lato frontend. L'ambizione finale è quella di diventare un Mern Stack Developer
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicola-calz%C3%A0-73266412b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-calz%C3%A0-73266412b/) 
 
 ## 💻 Tech Stack:
 
